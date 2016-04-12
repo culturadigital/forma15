@@ -1,0 +1,35 @@
+THE MONETARY SYSTEM AS A CAUSE OF ECONOMIC BANKRUPTCY. THE "SOVEREIGN MONEY" SOLUTION. 
+
+Is the current design of the monetary system an endogenous cause of bankruptcies in serie? Could the "Sovereign Money" proposal be a solution?
+
+
+Authors:
+
+Jesus Manuel Utrilla Trinidad
+paleomodernidad@gmail.com
+
+Collaborators:
+
+Juan Galan Paez
+Adrian Bretones Moreno
+Sebastian Lozano
+Antonio Paredes-Moreno
+Rafael Arroyo Aleman
+
+Brief: 
+
+The World has suffered an enormous recession, after a cicle of euforia of credit in the finantial markets.
+
+International Movement for Monetary Reform (IMMR) was born to change the monetary system, because we think that the design of the monetary system of the eurozone and other developt countries causes a mal-function of all the economy.
+
+The construction of the monetary system is the problem, because:
+1-It is divided in three different circuits: cash, reserves and deposits.
+2-Money used by the people is created by the banks making loans (=creating debt).
+
+IMMR thinks that this system genarates two main problems:
+1-It pust the economy in the road og a general bankruptcy.
+2-It doesn´t permit to rescue the people and the real economy.
+
+To prove it, we want to make a microsimulation of the system.
+
+And we want to prove our solution too: the Sovereign Money. It consists in a new system with just one circuit and with the prohibition for the banks to create money. Just a democratic central bank can create money, and usually free of debt.
