@@ -1,0 +1,29 @@
+EVOLUTIVE PATTERNS IN ISLAND COLONIZATION PROCESSES
+
+What is the colonization process that best explains the species distribution pattern in oceanic islands?
+
+
+Authors:
+
+Javier Fernandez-Lopez
+jflopez@rjb.es
+Mª Teresa Telleria
+
+Margarita Duenas
+
+Maripaz Martin
+
+
+Collaborators:
+
+Jesus Manuel Rodriguez Mazo
+Diego Alonso Cancillo
+Rafael Escudero Lirio
+Ismael Huertas Fernandez
+
+Brief: 
+
+Oceanic islands are laboratories to assess hypotheses about colonization, evolution and biological processes. Since they have never been connected with continental landmasses, they constitute an ideal scenario to study how and when colonization processes occur. Animals, plants and other organisms can arrive to oceanic islands through different ways, depending on their adaptations to some dispersal vector or even due to stochastic processes.
+In our case study, we use a spatially explicit agent model to assess two different theories about the Canary Islands colonization. We study the case of the genus Hyphoderma, a wood-decay fungus that causes white rot. This fungus originated in Morocco coast and has colonized some Macaronesian islands, resulting in different speciation processes and developing several endemic species for each archipelago (Telleria et al. 2012).
+Here, we use agent-based models as a work-frame in order to combine an underlying evolutive model with a spatially explicit ecological model. First, we model a dynamic population with several processes as asexual reproduction, dispersal and colonization depending on environmental suitability. Secondly, we implement a DNA evolution model in each dispersive agent in order to simulate genetic drift, taking into account genetic transition matrices obtained from real samples. Finally, we test two different theories about island colonization: random long-distant dispersion, depending only on distance; or anisotropic long-distant dispersion, depending on some dispersal vector like sea or wind currents.
+We assess each theory by comparing simulation results with real genetic data, having into account different parameters as genetic diversity in each island or the colonization sequence through time.
