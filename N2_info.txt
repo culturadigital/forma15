@@ -1,0 +1,21 @@
+CURVES OF PURSUIT
+
+Which is the shape of the curves plotted by different agents that perform simple o cyclic pursuit?
+
+
+Authors:
+
+Juan Carlos Garcia Vazquez
+
+Collaborators:
+
+Juan Carlos Carrasco Zambrano
+Jaime de Miguel Rodriguez
+Jose Manuel Jarana Exposito
+Angeles Linares Garcia
+Antonio Manuel Nunez Dominguez
+Miriam Romero Sanchez
+
+Brief: 
+
+We consider a group of agents that perform simple or cyclic pursuit in different scenarios. We are interested in the type of curves plotted in the persecution, the existence of partial captures or total collapse of the agents in a single point, dependence of the curves with respect to initial conditions, different orders of persecution between agents, etc.
