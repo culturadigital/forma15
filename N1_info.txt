@@ -1,0 +1,38 @@
+
+GENETIC ALGORITHM FOR CLOSE RANGE PHOTOGRAMMETRIC NETWORK DESIGN
+
+Which one is the minimum set of points of view from which is possible to visualize a building in a successful way from its exterior side?
+
+
+Authors:
+
+Elena Cabrera Revuelta
+ecabrera2@us.es
+Jose Antonio Barrera Vera
+barrera@us.es
+Maria Jose Chavez de Diego
+mjchavez@us.es
+Felix Martin Lopez
+felix_ml@hotmail.com
+
+Collaborators:
+
+Lorena Caballero Real
+Manuel Caballero Sanchez
+Laura Calzada Infante
+Yago Fernandez Rodriguez
+Juan Carlos Manjon Velazquez
+
+Brief: 
+
+The term of Architectural Survey, in the field of Architecture and Heritage, includes the necessary operations, measures and analyses to understand and keep record of an architectural object in its whole configuration, including graphic documentation. 
+
+Photogrammetry is a technique that allows, through photography, getting three dimensional models of real objects, which have as sufficient metric validity to generate graphic documentation from them: plans, elevations, sections... Other instruments that can be used are total stations or scanners laser.
+
+In this sense, an investigation has been started in order to find the minimum number of positions from which take pictures, using a Genetic Algorithm. In other words, the objective of the Genetic Algorithm is to find a set of points to guard all the facades of a building from its exterior side, in order to ensure that applying the algorithm, the data collection for the architectural survey is going to be satisfactory.
+
+In the model that has been designed, the user can introduce the shape of the building of which there is any interest of having graphical documentation. Also, the user can adjust the technical features of the instrument that is going to be used, as the minimum and maximum distance in which the instrument works correctly.
+
+Once the user has introduced the necessary data, the model recognize the areas from which any point of the facades is successfully guarded. By reciprocity, the model is also able to give information of which part of the building is guarded from any point of the exterior. It can be made manually. 
+
+And, to conclude, the model can give the user the best set of points of view searching in multiple solutions by a Genetic Algorithm. This algorithm rewards solutions with a low number of points of view,
