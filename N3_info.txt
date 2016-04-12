@@ -1,0 +1,27 @@
+FILL THE GAP[S]: DIGITAL SIMULATION TO FACE THE POST-BUBBLE CHALLENGE
+
+Is it possible to define, through the use of simulation tools, a methodology of visualization of the degree of "renting" of the existing empty housing stock to link it with the satisfaction of the residential demands of citizens, according to the parameters that characterized the different actors involved in the housing process?
+
+
+Authors:
+
+Juan Francisco Fernandez Rodriguez
+jfernandez52@us.es
+
+Collaborators:
+
+Irene Luque Martin
+Carlos Jimenez Cobano
+Alfonso Manuel Orta Rodriguez
+Andres Fernandez Garcia
+
+Brief: 
+
+There is no doubt that one of the biggest challenges for urban planning nowadays has to do with the reuse of the vacant housing stock that exists in lots of cities and towns around us. Spain is one of the European countries with the highest percentage of empty houses, and in parallel with major problems to ensure the access to housing to the population. So, the solutions for this problem necessarily involves the definition of strategies to put in use the empty houses as the first resource to satisfy the demands of citizens.
+
+The problem arises when this challenge is considered as a global phenomenon. We talk about empty housing under statistical parameters instead of making an approach to the problem from the specific study of the existing housing stock in each municipality. Just the definition of the characteristics of the empty houses, the causes of which they remain empty, and their degree of "renting", as a parameter that express the facility to put them in use, will be able to evaluate the best strategies to act on them and offer an answer to the specific demands in each case.
+
+The broad knowledge of the under-used stock characteristics - the location, age, estate of conservation, tenure, or causes that remain them unoccupied - as well as the information about applicants of houses, about their residential needs and access capabilities, will be the key to reach our purpose, being necessary for that to manage large amounts of information, from different nature and source, in a process that further simplifications must seek complex solutions.
+At that point it will be necessary to incorporate to the study of the phenomenon of empty housing the use of modeling and simulation tools, able to link the characteristics of different actors involved in the housing process (applicants, owners, technicians, social entities, administration), as a methodology needed to understand the dynamics generated between them to settle down the basis for the development of subsequent phases of decision in the residential planning.
+
+In this context the aim of this proposal will be to analyze how the incorporation of multi-agent simulation tools to the process of linking the vacant dwellings and residential demands will allow to visualize the degree of "renting" of the existing empty housing stock at the local field, to establish further strategies to solve the social challenge of access to housing by putting them in use.
