@@ -1,0 +1,24 @@
+EFFECTIVENESS OF SHARES CAPACITY DISCOVER THROUGH: COACHING-LEARNING METHOD CONSOLIDATION.
+
+What's the most suitable in a capaciting process based on the actions Coaching-learning methodology?
+
+
+Authors:
+
+Ana Maria Orti Gonzalez
+anaorti@siscapem.com
+
+Collaborators:
+
+Gonzalo Aranda (Lead) Universidad de Sevilla
+Noelia Garcia Estevez 
+David Posada Mena
+Jorge Canas Estevez
+Juan D. Morillo Reina
+
+Brief: 
+
+After years of research, we propose the concept "Emprendedorismo" as a body of knowledge aimed at enhancing the entrepreneurial spirit and social innovation of a community from a perspective that integrates multi-disciplinary approaches from complementary currents disciplinary social science.
+To do this, we need contributes to the consolidation of the concept as a scientific discipline method.
+Coaching-learning is a methodology defined as: system actions for combined development of basic skills and transversal skills (both in the professional side and personal), which can be applied in the diagnosis and development of individual learning processes and group, to strengthen a system of skills management with the principles embodied in the philosophy of Management Excellence. All this we represent as Multiagent Systems Modeling.
+For representation initially use the tool of NetLogo.
